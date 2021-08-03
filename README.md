@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 installing material ui
  npm i @material-ui/core
   npm i @material-ui/icons
+  //used for displaying different avatars
+  https://avatars.dicebear.com/
